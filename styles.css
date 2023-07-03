@@ -10,16 +10,18 @@
     background-color:orange;
     display:flex;
     height: 50px;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     
 }
 
 .titre{
     display:flex;
     flex-direction:column;
-    /* border:solid; */
+    border:solid;
     padding:5px;
     padding-right:5px;
+    margin-left:-160px;
+    justify-self: flex-start;
 
 
 
@@ -34,7 +36,7 @@ h3{
     background-color: transparent;
     border:none;
     margin-right:5px;
-    padding-left:180px;
+   
     
     
 }
@@ -50,7 +52,6 @@ h3{
 border:white solid 2px;
 height: 20px;
 display:flex;
-justify-self:center;
 color: white;
 align-self: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -59,7 +60,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .content{
     margin-left:15px;
     height:100%;
-    margin-top:5px;
+    margin-top
 }
 .list2{
     list-style: decimal;
