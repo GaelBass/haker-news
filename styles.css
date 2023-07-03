@@ -34,7 +34,7 @@ h3{
     background-color: transparent;
     border:none;
     margin-right:5px;
-    padding-left:320px;
+    padding-left:180px;
     
     
 }
@@ -57,8 +57,9 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .content{
-    margin:5px;
+    margin-left:15px;
     height:100%;
+    margin-top:5px;
 }
 .list2{
     list-style: decimal;
